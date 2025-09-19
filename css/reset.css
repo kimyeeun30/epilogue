@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+     -moz-text-size-adjust: 100%;
+          text-size-adjust: 100%;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font: normal 14px/1 "SpokaHanSansNeo", "Poppins";
+  color: var(--grayscale-80);
+  background: var(--bg-white);
+}
+
+:root {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+:root.modal-open {
+  overflow-y: hidden;
+}
+
+header, main, footer, section, article, nav, aside {
+  display: block;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #444;
+  text-decoration: none;
+}
+
+address, em, i {
+  font-style: normal;
+}
+
+strong, b, h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 14px;
+}
+
+.blind {
+  display: block;
+  text-indent: -10000px;
+  overflow: hidden;
+}
+
+.hide {
+  display: none;
+}
