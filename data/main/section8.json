@@ -1,0 +1,20 @@
+{
+    "공지": [
+        {
+            "이미지":"./images/main/section8-img-1.png",
+            "타이틀":"The best way to predict the future is to create it"
+        },
+        {
+            "이미지":"./images/main/section8-img-2.png",
+            "타이틀":"Winners make a habit of facturing positive"
+        },
+        {
+            "이미지":"./images/main/section8-img-3.png",
+            "타이틀":"Computers are to design as microwaves are to cooking"
+        },
+        {
+            "이미지":"./images/main/section8-img-4.png",
+            "타이틀":"A company is only as good as the people it keeps"
+        }
+    ]
+}

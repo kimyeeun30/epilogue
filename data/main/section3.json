@@ -1,0 +1,44 @@
+{
+    "MD": [
+        {
+            "버튼네임" : "book-btn",
+            "박스네임" : "book-box",
+            "구분" : "book",
+            "버튼명" : "Photobook / Program Book",
+            "이미지":"./images/main/section3-img-1.png",
+            "타이틀1":"Program Book",
+            "타이틀2":"Lorem ipsum dolor sit amet consectetur adipiscing elit do\neiusmod tempor incididunt ut labore et dolore magna\nut enim ad minim veniam nostrud exercitation ullamcolaboris\naliquip ex ea commodo consequat.",
+            "타이틀3":"VIEW MORE"
+        },
+        {
+            "버튼네임" : "poster-btn",
+            "박스네임" : "poster-box",
+            "구분" : "poster",
+            "버튼명" : "Postcard / Poster",
+            "이미지":"./images/main/section3-img-2.png",
+            "타이틀1":"Postcard",
+            "타이틀2":"Lorem ipsum dolor sit amet consectetur adipiscing elit do\neiusmod tempor incididunt ut labore et dolore magna\nut enim ad minim veniam nostrud exercitation ullamcolaboris\naliquip ex ea commodo consequat.",
+            "타이틀3":"VIEW MORE"
+        },
+        {
+            "버튼네임" : "sticker-btn",
+            "박스네임" : "sticker-box",
+            "구분" : "sticker",
+            "버튼명" : "Sticker / Masking Tape",
+            "이미지":"./images/main/section3-img-3.png",
+            "타이틀1":"Sticker",
+            "타이틀2":"Lorem ipsum dolor sit amet consectetur adipiscing elit do\neiusmod tempor incididunt ut labore et dolore magna\nut enim ad minim veniam nostrud exercitation ullamcolaboris\naliquip ex ea commodo consequat.",
+            "타이틀3":"VIEW MORE"
+        },
+        {
+            "버튼네임" : "badge-btn",
+            "박스네임" : "badge-box",
+            "구분" : "badge",
+            "버튼명" : "Keyring / Badge / Pin Button",
+            "이미지":"./images/main/section3-img-4.png",
+            "타이틀1":"Badge",
+            "타이틀2":"Lorem ipsum dolor sit amet consectetur adipiscing elit do\neiusmod tempor incididunt ut labore et dolore magna\nut enim ad minim veniam nostrud exercitation ullamcolaboris\naliquip ex ea commodo consequat.",
+            "타이틀3":"VIEW MORE"
+        }
+    ]
+}
