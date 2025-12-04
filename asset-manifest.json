@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/epilogue/static/css/main.b19fbcc4.css",
+    "main.js": "/epilogue/static/js/main.1d836b97.js",
+    "static/media/section5-img-1.png": "/epilogue/static/media/section5-img-1.06264b23f68058822682.png",
+    "index.html": "/epilogue/index.html",
+    "main.b19fbcc4.css.map": "/epilogue/static/css/main.b19fbcc4.css.map",
+    "main.1d836b97.js.map": "/epilogue/static/js/main.1d836b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b19fbcc4.css",
+    "static/js/main.1d836b97.js"
+  ]
+}

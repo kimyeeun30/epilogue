@@ -1,0 +1,20 @@
+{
+    "client": [
+        {
+            "이미지":"./images/main/client-logo-1.png",
+            "타이틀":"forecastr"
+        },
+        {
+            "이미지":"./images/main/client-logo-2.png",
+            "타이틀":"growtify"
+        },
+        {
+            "이미지":"./images/main/client-logo-3.png",
+            "타이틀":"smarthome"
+        },
+        {
+            "이미지":"./images/main/client-logo-4.png",
+            "타이틀":"techbox"
+        }
+    ]
+}
