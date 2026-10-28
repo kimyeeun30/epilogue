@@ -1,0 +1,22 @@
+{
+    "리뷰": [
+        {
+            "이미지":"./images/main/section6-img-1.png",
+            "타이틀1":"Ko Eun Sung",
+            "타이틀2":"Eunsung_com",
+            "내용":"Lorem ipsum dolor amet consectetur do tempor incididunt labore et dolore magna nostrud exercitation."
+        },
+        {
+            "이미지":"./images/main/section6-img-2.png",
+            "타이틀1":"Shin Young Sook",
+            "타이틀2":"mamanim",
+            "내용":"Lorem ipsum dolor amet consectetur do tempor incididunt labore et dolore magna nostrud exercitation."
+        },
+        {
+            "이미지":"./images/main/section6-img-3.png",
+            "타이틀1":"Min Kyung Ah",
+            "타이틀2":"kyoungah_roun",
+            "내용":"Lorem ipsum dolor amet consectetur do tempor incididunt labore et dolore magna nostrud exercitation."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "슬라이드": [
+        {
+            "id":"main-slide-1",
+            "클래스이름":"slide last", 
+            "이미지":"./images/main/section1-mainslide-img-3.png",
+            "타이틀1":"24년간 대한민국 뮤지컬 정상을 지켜온",
+            "타이틀2":"시카고",
+            "타이틀3":"VIEW MORE"
+        },
+        {
+            "id":"main-slide-2",
+            "클래스이름":"slide slide1", 
+            "이미지":"./images/main/section1-mainslide-img-1.png",
+            "타이틀1":"죽음마저 사랑에 빠지게 한 아름다운 황후",
+            "타이틀2":"엘리자벳",
+            "타이틀3":"VIEW MORE"
+        },
+        {
+            "id":"main-slide-3",
+            "클래스이름":"slide slide2", 
+            "이미지":"./images/main/section1-mainslide-img-2.png",
+            "타이틀1":"2009년, 안중근 의거 100주년을 기념해 제작된",
+            "타이틀2":"영웅",
+            "타이틀3":"VIEW MORE"
+        },
+        {
+            "id":"main-slide-4",
+            "클래스이름":"slide slide3", 
+            "이미지":"./images/main/section1-mainslide-img-3.png",
+            "타이틀1":"24년간 대한민국 뮤지컬 정상을 지켜온",
+            "타이틀2":"시카고",
+            "타이틀3":"VIEW MORE"
+        },
+        {
+            "id":"main-slide-5",
+            "클래스이름":"slide first", 
+            "이미지":"./images/main/section1-mainslide-img-1.png",
+            "타이틀1":"죽음마저 사랑에 빠지게 한 아름다운 황후",
+            "타이틀2":"엘리자벳",
+            "타이틀3":"VIEW MORE"
+        }
+    ]
+}
